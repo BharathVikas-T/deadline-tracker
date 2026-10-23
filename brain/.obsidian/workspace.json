@@ -11,10 +11,14 @@
             "id": "885ef1f647001d90",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "requirements.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "requirements"
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "requirements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "requirements.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -181,10 +188,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "c9d00af5d4639357",
+  "active": "885ef1f647001d90",
   "lastOpenFiles": [
-    "log.md",
     "index.md",
+    "requirements.md",
+    "log.md",
     "archive",
     "resources",
     "areas",
